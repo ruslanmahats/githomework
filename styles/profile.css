@@ -1,3 +1,7 @@
 body {
 	background-color: pink;
 }
+
+footer p {
+	margin: 20px;
+}

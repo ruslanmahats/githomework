@@ -1,7 +1,14 @@
+@import "/styles/reset.css";
+
 body {
 	background-color: blue;
 }
 
 footer p {
 	margin: 20px;
+}
+
+label {
+	margin: 50px auto;
+	display: inline-block;
 }
